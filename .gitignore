@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+dist/
+
+# Node.js
+node_modules/
+dist/
+build/
+*.log
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# Specs & AI config
+specs/
+.specify/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
